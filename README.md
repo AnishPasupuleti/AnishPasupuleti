@@ -17,7 +17,7 @@
 
 - 🧠 LeetCode Rating: **1711** (Top 14%)
 - 🥇 OpenCV Hackathon Winner ’22
-- 💡 SIH Finalist 2024
+- 💡 SIH College Level Finalist 2024
 - 💥 Participated in 8+ Hackathons
 - 👨‍💻 Passionate about building GenAI, Web & ML tools
 
