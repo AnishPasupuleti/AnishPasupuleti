@@ -7,7 +7,6 @@
 ## 💻 Tech Stack
  
 - **Languages:** Python, Java, JavaScript, C, HTML, CSS
-- **Frameworks:** MERN Stack (MongoDB, Express, React, Node)
 - **Cloud & DevOps:** Azure, AWS, Docker, Kubernetes
 - **Tools:** GitHub, Linux, Postman, VS Code
 
