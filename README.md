@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anish Pasupuleti!      
          
-🎓 B.Tech CSE @ Anurag University | 🔧 Full Stack Developer | 🧠 ML Enthusiast | 🚀 DevOps Explorer                  
+🎓 B.Tech CSE @ Anurag University | 🧠 ML Enthusiast | 🚀 DevOps Explorer                  
       
 ---     
       
@@ -17,8 +17,8 @@
 - 🧠 LeetCode Rating: **1711** (Top 14%) 
 - 🥇 OpenCV Hackathon Winner ’22
 - 💡 SIH College Level Finalist 2024
-- 💥 Participated in 8+ Hackathons
-- 👨‍💻 Passionate about building GenAI, Web & ML tools
+- 💥 Participated in 9+ Hackathons
+- 👨‍💻 Passionate about building GenAI, ML tools
 
 ---
 
