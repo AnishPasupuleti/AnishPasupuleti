@@ -20,7 +20,7 @@
 - 💥 Participated in 9+ Hackathons
 - 👨‍💻 Passionate about building GenAI, ML tools
 
----
+--- 
 
 ## 🔗 Connect With Me
 
