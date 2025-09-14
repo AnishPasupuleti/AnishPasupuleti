@@ -6,7 +6,7 @@
                                              
 ## 💻 Tech Stack                             
                    
-- **Languages:** Python, Java, JavaScript, C, HTML, CSS            
+- **Languages:** Python, Java, JavaScript, C, HTML, CSS             
 - **Cloud & DevOps:** Azure, AWS, Docker, Kubernetes    
 - **Tools:** GitHub, Linux, Postman, VS Code  
  
