@@ -5,7 +5,7 @@
              
 ---                                             
                                                 
-## 💻 Tech Stack                               
+## 💻 Tech Stack                                
                    
 - **Languages:** Python, Java, JavaScript, C, HTML, CSS              
 - **Cloud & DevOps:** Azure, AWS, Docker, Kubernetes     
