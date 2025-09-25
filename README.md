@@ -10,7 +10,7 @@
 - **Cloud & DevOps:** Azure, AWS, Docker, Kubernetes     
 - **Tools:** GitHub, Linux, Postman, VS Code   
  
---- 
+---  
  
 ## 🏆 Highlights
 
