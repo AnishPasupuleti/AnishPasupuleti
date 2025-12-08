@@ -8,7 +8,7 @@
                                 
 - **Languages:** Python, Java, JavaScript, C, HTML, CSS                     
 - **Cloud & DevOps:** Azure, AWS, Docker, Kubernetes          
-- **Tools:** GitHub, Linux, Postman, VS Code      
+- **Tools:** GitHub, Linux, Postman, VS Code       
  
 ---    
   
