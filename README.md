@@ -1,7 +1,7 @@
  # 👋 Hi, I'm Anish Pasupuleti!                          
                                                                                  
 🎓 B.Tech CSE @ Anurag University                                             
-                                                  
+                                                   
 ---                                                                         
                                                                                    
 ## 💻 Tech Stack                                                           
