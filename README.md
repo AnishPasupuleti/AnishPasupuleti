@@ -1,6 +1,6 @@
  # 👋 Hi, I'm Anish Pasupuleti!                           
                                                                                       
-🎓 B.Tech CSE @ Anurag University                                                
+🎓 B.Tech CSE @ Anurag University                                                 
                                                           
 ---                                                                                 
                                                                                       
