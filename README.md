@@ -3,7 +3,7 @@
 🎓 B.Tech CSE @ Anurag University                                                          
                                                                   
 ---                                                                                           
-                                                                                          
+                                                                                           
 ## 💻 Tech Stack                                                                      
                                         
 - **Languages:** Python, Java, JavaScript, C, HTML, CSS                          
