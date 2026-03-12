@@ -12,7 +12,7 @@
  
 ---    
     
-## 🏆 Highlights
+## 🏆 Highlights 
 
 - 🧠 LeetCode Rating: **1711** (Top 14%) 
 - 🥇 OpenCV Hackathon Winner ’22
